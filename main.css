@@ -1,0 +1,85 @@
+body{
+    height: 650px;
+    background-color:blueviolet;
+}
+nav{
+    
+    padding: 0px;
+    height: 55px;
+    background-color:darkslategray;
+}
+#photos{
+    font-size:45px;
+    height: 55px;
+    width: 180px;
+    background-color:paleturquoise;
+    float:left;
+    text-align: center;
+    border: 1px black solid;
+}
+#students{
+    font-size:45px;
+    height: 55px;
+    width: 200px;
+    background-color:paleturquoise;
+    float:left;
+    text-align: center;
+    border: 1px black solid;
+    
+}
+#assignments{
+    font-size:45px;
+    height: 55px;
+    width: 280px;
+    background-color:paleturquoise;
+    float:left;
+    text-align: center;
+    border: 1px black solid;
+}
+#accomplishments{
+    font-size:45px;
+    height: 55px;
+    width: 370px;
+    background-color:paleturquoise;
+    float:left;
+    text-align: center;
+    border: 1px black solid;
+}
+#aboutMe{
+    font-size:45px;
+    height: 55px;
+    width:calc(100% - 1040px);
+    background-color:paleturquoise;
+    float:left;
+    text-align: center;
+    border: 1px black solid;
+}
+nav a:hover #photos{
+    background-color:#000;
+    color:#fff;
+}
+nav a:hover #students{
+    background-color:#000;
+    color:#fff;
+}
+nav a:hover #assignments{
+    background-color:#000;
+    color:#fff;
+}
+nav a:hover #accomplishments{
+    background-color:#000;
+    color:#fff;
+}
+nav a:hover #aboutMe{
+    background-color:#000;
+    color:#fff;
+}
+nav a:active{
+    color:orange;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    color:limegreen;
+    font-family: impact, serif;
+}

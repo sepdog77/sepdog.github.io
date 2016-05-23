@@ -1,0 +1,16 @@
+body{
+    height: 500px;
+    background-color:blueviolet;
+}
+#header{
+  margin-bottom: 0; 
+}
+h1{
+    text-align: left;
+    font-size: 45px;
+    color:limegreen;
+    font-family: Verdana, serif;
+}
+li{
+    font-size: 24px;
+}

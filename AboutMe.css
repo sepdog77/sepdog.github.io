@@ -1,0 +1,20 @@
+h1{
+    text-align: left;
+    font-size: 45px;
+    color:limegreen;
+    font-family: Verdana, serif;
+}
+body{
+    height: 1000px;
+    background-color:blueviolet;
+}
+img{
+    height: 40%;
+    float: left;
+    margin-right: 10px;
+    border: 2px solid black;
+}
+p{
+    font-size: 22px;
+    font-family: cursive;
+}

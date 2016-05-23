@@ -1,0 +1,19 @@
+body{
+    height: 1000px;
+    background-color:blueviolet;
+}
+h1{
+    text-align: left;
+    font-size: 45px;
+    color:limegreen;
+    font-family: Verdana, serif;
+}
+li{
+    font-size:20px;
+}
+.headers{
+    font-size:30px;
+}
+a{
+    color:darkviolet;
+}
